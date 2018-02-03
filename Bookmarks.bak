@@ -1,5 +1,5 @@
 {
-   "checksum": "7bb9a6b64342a37ef7888570b834585d",
+   "checksum": "1ab4fe833c867d55e0f07ac96beb384a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -922,10 +922,10 @@
                "date_added": "13161747868330723",
                "id": "285",
                "meta_info": {
-                  "last_visited_desktop": "13161747868331161"
+                  "last_visited_desktop": "13161919945260948"
                },
                "name": "Java线程的5种状态及切换(透彻讲解) - CSDN博客",
-               "sync_transaction_version": "933",
+               "sync_transaction_version": "942",
                "type": "url",
                "url": "http://blog.csdn.net/pange1991/article/details/53860651"
             }, {
@@ -938,9 +938,19 @@
                "sync_transaction_version": "937",
                "type": "url",
                "url": "http://maven.aliyun.com/nexus/#nexus-search;quick~commons-dbutil"
+            }, {
+               "date_added": "13162038422789458",
+               "id": "288",
+               "meta_info": {
+                  "last_visited_desktop": "13162038422789850"
+               },
+               "name": "spring与mybatis三种整合方法 - 请叫我大表哥 - 博客园",
+               "sync_transaction_version": "949",
+               "type": "url",
+               "url": "https://www.cnblogs.com/wangmingshun/p/5674633.html"
             } ],
             "date_added": "13131180137730919",
-            "date_modified": "13161849741561167",
+            "date_modified": "13162038422789458",
             "id": "22",
             "name": "JAVA",
             "sync_transaction_version": "707",
@@ -1207,10 +1217,10 @@
             "date_added": "13142079093811503",
             "id": "119",
             "meta_info": {
-               "last_visited_desktop": "13161864160591397"
+               "last_visited_desktop": "13162016233490753"
             },
             "name": "Maven Repository: org.json » json » 20160807",
-            "sync_transaction_version": "940",
+            "sync_transaction_version": "945",
             "type": "url",
             "url": "http://mvnrepository.com/artifact/org.json/json/20160807"
          }, {
@@ -1317,10 +1327,10 @@
                "date_added": "13157101603623129",
                "id": "268",
                "meta_info": {
-                  "last_visited_desktop": "13159414198901755"
+                  "last_visited_desktop": "13161919916908275"
                },
                "name": "技巧：快速提高 Vi/Vim 使用效率的原则与途径",
-               "sync_transaction_version": "861",
+               "sync_transaction_version": "941",
                "type": "url",
                "url": "https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/"
             }, {
@@ -1536,7 +1546,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "940",
+      "sync_transaction_version": "949",
       "synced": {
          "children": [  ],
          "date_added": "13131179916904066",
